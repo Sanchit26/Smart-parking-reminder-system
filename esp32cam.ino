@@ -3,11 +3,11 @@
 #include "esp_camera.h"
 
 // WiFi credentials
-const char* ssid = "Sanchit-5G";
-const char* password = "Lukaluka12";
+const char* ssid = "WifiWifi";
+const char* password = "PassPass";
 
 // Flask server URL (your PC's IP + Flask port)
-const char* serverName = "http://192.168.29.77:5000/";
+const char* serverName = "http://addressaddress";
 
 // Arduino communication pin
 #define ARDUINO_COMM_PIN 13

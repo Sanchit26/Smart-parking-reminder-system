@@ -9,8 +9,8 @@ reader = easyocr.Reader(['en'])
 
 # License plate to phone number mapping
 license_to_phone = {
-    "AB": "+919100770398",
-    "XY": "+916303447534"
+    "TS01": "+91XXXXXXXXXX",
+    "AP02": "+91XXXXXXXXXX"
 }
 
 # Meta WhatsApp Cloud API credentials
